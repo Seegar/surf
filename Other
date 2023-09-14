@@ -1,4 +1,6 @@
 
+  - DOMAIN-SUFFIX,edu,Proxy
+  - DOMAIN-SUFFIX,tw,Proxy
   - DOMAIN-SUFFIX,amazon.co.jp,Proxy
   - DOMAIN-SUFFIX,apkmirror.com,Proxy
   - DOMAIN-SUFFIX,apkpure.com,Proxy
